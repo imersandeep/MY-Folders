@@ -6,6 +6,9 @@ public class SecondGit {
 		// TODO Auto-generated method stub
 		System.out.println("help");
 		System.out.println("New Folder added");
+		System.out.println("my folder");
+		System.out.println("my folde23");
+
 
 	}
 
